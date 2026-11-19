@@ -9,8 +9,3 @@
     { "source": "/((?!api|v1/api|track|.*\\..*).*)", "destination": "/index.html" }
   ]
 }
-{
-  "deploymentProtection": {
-    "vercelAuthentication": false
-  }
-}
